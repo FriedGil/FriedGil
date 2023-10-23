@@ -1,7 +1,9 @@
-Will only read docs if they're colorful.
+Hi Suny Binghamton <3
+> "Attention span is all you need"
 
-Attention span is all you need.
-<!---
-FriedGil/FriedGil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Gil Friedman
+> "Attention span is all you need"
+
+I'm a High School Senior with an interest in LLMs and Physics Simulation. Though thoroughly uninterested, I also have a degree of proficiency in web development.
+
+I also made a card game called Bid, ask me about to it at gil.friedman74@gmail.com
