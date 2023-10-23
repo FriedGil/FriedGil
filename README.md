@@ -1,5 +1,4 @@
 Hi Suny Binghamton <3
-> "Attention span is all you need"
 
 # Gil Friedman
 > "Attention span is all you need"
