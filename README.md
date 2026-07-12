@@ -1,4 +1,4 @@
 # Gil Friedman
 > "Attention span is all you need"
 
-I'm a College Freshman with an interest in Computational Biology and Theory.
+I'm an undergraduate student with an interest in Computational Biology and Theory of CS.
